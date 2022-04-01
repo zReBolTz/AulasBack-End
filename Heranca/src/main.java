@@ -22,6 +22,12 @@ public class main {
 		moto1.imprimirDados();
 		moto1.buzinar();
 		moto1.empinar();
+		
+		
+		
+		Caminhao caminhao1= new Caminhao();
+		
+		caminhao1.buzinar();
 	}
 
 }
